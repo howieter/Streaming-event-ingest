@@ -1,0 +1,11 @@
+{
+  "uid": 0,
+  "id": "evt_123",
+  "ts": "2025-09-11T14:00:00Z",
+  "type": "user.signup",
+  "source": "web",
+  "payload": {
+    "user_id": 42,
+    "plan": "pro"
+  }
+}
